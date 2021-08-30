@@ -3,7 +3,6 @@ public class bubbleSort {
     int UnsortedArray[] = {6,2,4,7,9,1,3,0};
     int temp;
     boolean sorted = false;
-    System.out.println(UnsortedArray[0]>UnsortedArray[1])
     while(sorted == false){
       sorted = true;
       for(int x = 0; x < UnsortedArray.length-1; x++){
