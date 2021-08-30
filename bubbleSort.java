@@ -1,5 +1,6 @@
 public class bubbleSort {
   public static void main(String[] args){
+    //intialise an array of ints in Java
     int UnsortedArray[] = {6,2,4,7,9,1,3,0};
     int temp;
     boolean sorted = false;
